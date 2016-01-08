@@ -1,0 +1,2 @@
+worker:
+  build: test_image
