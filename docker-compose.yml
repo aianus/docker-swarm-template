@@ -1,2 +1,2 @@
 worker:
-  build: test_image
+  image: aianus/docker-swarm-test-image
